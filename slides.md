@@ -64,7 +64,7 @@ Here is another comment.
 
 ---
 layout: image-left
-image: ./images/slide_3_001.png
+image: /images/slide_3_001.png
 ---
 
 # Giới thiệu đề tài
@@ -90,7 +90,7 @@ layout: intro
 
 ---
 layout: image-right
-image: ./images/slide_5_001.png
+image: /images/slide_5_001.png
 ---
 ## Khảo sát thực trạng
 
@@ -229,7 +229,7 @@ layout: statement
 
 ---
 layout: image-left
-image: ./images/google_light_house.png
+image: /images/google_light_house.png
 hideInToc: true
 ---
 
